@@ -1,0 +1,65 @@
+/* === GENERAL === */
+
+legend {
+  margin: 0;
+}
+
+
+/* === COLORS === */
+
+.customHeadline {
+  background-color: #fff3cd;
+}
+
+.customHeader {
+  background-color: #ffffcd;
+}
+
+.customEthik {
+  background-color: #33cbcc!important;
+}
+
+.customFranzösisch {
+  background-color: #e6ffa3!important;
+}
+
+.customBiologie {
+  background-color: #92d14f!important;
+}
+
+.customLatein {
+  background-color: #ffcb99!important;
+}
+
+.customMathe {
+  background-color: #9933ff!important;
+}
+
+.customEnglisch {
+  background-color: #fe0000!important;
+}
+
+.customGeographie {
+  background-color: #ff32cb!important;
+}
+
+.customDeutsch {
+  background-color: #ffff03!important;
+}
+
+.customKunst {
+  background-color: #Aa65ee!important;
+}
+
+.customSpanisch {
+  background-color: #ffccff!important;
+}
+
+.customGeschichte {
+  background-color: #F15454!important;
+
+}
+
+.customWirtschaft {
+  background-color: #ccedff!important;
+}
